@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **potofgreed9412/potofgreed9412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hey 👋, This is 소영섭
+## Hey 👋
 [![Gmail Badge](https://img.shields.io/badge/-potofgreed9412@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:potofgreed9412@gmail.com)](mailto:potofgreed9412@gmail.com) [![Github Badge](https://img.shields.io/badge/-potofgreed9412-grey?style=flat&logo=github&logoColor=white&link=https://github.com/potofgreed9412/)](https://www.github.com/potofgreed9412/) <p align='left'>말하는 스머프</p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=potofgreed9412 alt=potofgreed9412 /> </p>
