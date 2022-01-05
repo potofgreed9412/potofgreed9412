@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hey 👋, This is 소영섭
+[![Gmail Badge](https://img.shields.io/badge/-potofgreed9412@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:potofgreed9412@gmail.com)](mailto:potofgreed9412@gmail.com) [![Github Badge](https://img.shields.io/badge/-potofgreed9412-grey?style=flat&logo=github&logoColor=white&link=https://github.com/potofgreed9412/)](https://www.github.com/potofgreed9412/) <p align='left'>말하는 스머프</p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=potofgreed9412 alt=potofgreed9412 /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=potofgreed9412&show_icons=true&include_all_commits=true)](https://github.com/potofgreed9412/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=potofgreed9412&layout=compact)](https://github.com/potofgreed9412/github-readme-stats)
+
+
